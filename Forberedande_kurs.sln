@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forberedande_kurs", "Forberedande_kurs\Forberedande_kurs.csproj", "{4668E463-D058-4F75-9B1B-ADA47C7EF965}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4668E463-D058-4F75-9B1B-ADA47C7EF965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4668E463-D058-4F75-9B1B-ADA47C7EF965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4668E463-D058-4F75-9B1B-ADA47C7EF965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4668E463-D058-4F75-9B1B-ADA47C7EF965}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA5EC194-9EB0-4B0E-A6A6-0BBD46D87413}
+	EndGlobalSection
+EndGlobal
